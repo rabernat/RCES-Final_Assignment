@@ -1,5 +1,7 @@
 # Research Computing for the Earth Sciences: Final Project
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccivanovich/RCES-Final_Assignment/master)
+
 ## Scientific Question/Hypothesis
 
 Scientific Question: Has daily temperature variability increased anywhere in the world?
