@@ -1,6 +1,6 @@
 # Research Computing for the Earth Sciences: Final Project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccivanovich/RCES-Final_Assignment/master)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/ccivanovich/RCES-Final_Assignment/master)
 
 ## Scientific Question/Hypothesis
 
