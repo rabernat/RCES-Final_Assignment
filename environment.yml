@@ -22,3 +22,4 @@ dependencies:
     - zarr          # Array storage library
     - numcodecs     # Compression library used by zarr
     - gcsfs         # Access data from Google Cloud Storage
+    - dask_kubernetes
